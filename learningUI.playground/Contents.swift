@@ -39,6 +39,13 @@ class MyViewController : UIViewController {
         picture.clipsToBounds = true
         picture.layer.cornerRadius = 7
         picture.contentMode = .scaleAspectFit
+
+        
+        
+        
+        
+        
+        
         
         
         
